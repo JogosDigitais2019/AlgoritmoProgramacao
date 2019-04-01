@@ -1,0 +1,16 @@
+
+Inicio
+
+decimal nota01, nota02, media;
+
+Escreva("Informe a nota 01: ");
+nota01 = Leia(); 
+
+Escreva("Informe a nota 02: ");
+nota02 = Leia(); 
+
+media = (nota01 + nota02) / 2;
+
+Escreva("A média do aluno é " + media);
+
+Fim

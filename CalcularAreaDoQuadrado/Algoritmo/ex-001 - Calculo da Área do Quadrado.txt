@@ -1,0 +1,16 @@
+
+Inicio
+
+decimal baseQ, altura, area;
+
+Escreva("Informe o valor da base: ");
+baseQ = Leia(); 
+
+Escreva("Informe o valor da altura: ");
+altura = Leia(); 
+
+area = baseQ * altura;
+
+Escreva("A área é " + area);
+
+Fim

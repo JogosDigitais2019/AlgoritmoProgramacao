@@ -1,4 +1,6 @@
 
+ex-001 - Calculo da Área do Quadrado
+
 Inicio
 
 decimal baseQ, altura, area;
@@ -11,6 +13,6 @@ altura = Leia();
 
 area = baseQ * altura;
 
-Escreva("A área é " + area);
+Escreva("A área do quadrado é: " + area);
 
 Fim

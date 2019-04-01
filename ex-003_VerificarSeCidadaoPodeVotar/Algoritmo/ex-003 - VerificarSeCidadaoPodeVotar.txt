@@ -1,0 +1,31 @@
+
+Inicio
+
+texto nomeCompleto;
+int anoNascimento;
+int idade;
+
+Escreva("Informe o nome completo: ");
+nomeCompleto = Leia(); 
+
+Escreva("Informe o ano de nascimento: ");
+anoNascimento = Leia(); 
+
+idade = 2019 - anoNascimento;
+
+Escreva("O aluno possui" + idade + " anos");
+
+se(idade >= 16)
+{
+   Escreva("O cidadão pode votar.");
+}
+senao
+{
+   Escreva("O cidadão NÃO pode votar.");
+}
+
+Fim
+
+
+
+      

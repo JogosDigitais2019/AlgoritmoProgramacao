@@ -1,0 +1,29 @@
+
+Inicio
+
+decimal nota01, nota02, media, mediaAprovacao = 6;
+
+Escreva("Informe a nota 01: ");
+nota01 = Leia(); 
+
+Escreva("Informe a nota 02: ");
+nota02 = Leia(); 
+
+media = (nota01 + nota02) / 2;
+
+Escreva("A média do aluno é " + media);
+
+Se(media >= mediaAprovacao)
+{
+   Escreva("O aluno está APROVADO.");
+}
+Senão
+{
+   Escreva("O aluno está RETIDO.");
+}
+
+Fim
+
+
+
+      

@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularAreaDoQuadrado", "CalcularAreaDoQuadrado\CalcularAreaDoQuadrado.csproj", "{B9C8D075-72C0-4514-B427-AD2CE60722CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex-001_CalcularAreaDoQuadrado", "CalcularAreaDoQuadrado\ex-001_CalcularAreaDoQuadrado.csproj", "{B9C8D075-72C0-4514-B427-AD2CE60722CF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcularMediaAluno", "CalcularMediaAluno\CalcularMediaAluno.csproj", "{88FB23E7-0157-42E7-910C-E94D1F522A45}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex-002_CalcularMediaAluno", "CalcularMediaAluno\ex-002_CalcularMediaAluno.csproj", "{88FB23E7-0157-42E7-910C-E94D1F522A45}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex-003_VerificarSeCidadaoPodeVotar", "ex-003_VerificarSeCidadaoPodeVotar\ex-003_VerificarSeCidadaoPodeVotar.csproj", "{A7CD9576-795B-4EE5-BD0C-866D5D2FB74B}"
 EndProject
